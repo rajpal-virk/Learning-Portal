@@ -45,6 +45,12 @@
 
 
 ## Tagbar
-1. Toggle Tagbar
+1. Toggle Tagbar window
 - F8
 
+## Git Fugivite
+1. s - add(stage) files
+2. cc - create a single line or multiline comment
+3. Git push - push the commit to repository
+4. Gvdiff - vertical difference of updated file (can use it with branch too - origin/master)
+5. while in Gvdiff = ]c to go to next change and [c to to go previous change
